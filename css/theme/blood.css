@@ -229,7 +229,6 @@ body {
 .reveal section img {
   margin: 15px 0px;
   background: rgba(255, 255, 255, 0.12);
-  border: 4px solid #eee;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.15); }
 
 .reveal section img.plain {
@@ -281,7 +280,7 @@ body {
  * PROGRESS BAR
  *********************************************/
 .reveal .progress {
-  background: rgba(0, 0, 0, 0.2); }
+  background: rgba(65,95,119); }
 
 .reveal .progress span {
   background: #a23;
@@ -308,3 +307,12 @@ body {
 
 .reveal small code {
   vertical-align: baseline; }
+
+.j-col2-25 {
+  width: 23.7288135593%;
+  float: left;
+  margin-right: 1.6949152542%; }
+  .j-col2-25:last-child {
+    width: 74.5762711864%;
+    float: right;
+    margin-right: 0; }

@@ -1,6 +1,6 @@
 # FinTech In Victoria Presentation
 
-This was presented on 7/7/2016 to an Australian big 4 bank. It's an overview of the Victorian ecoystem and covers:
+This was presented on 7/7/2016. It's an overview of the Victorian ecoystem and covers:
 - Key statistics from the Fintech Victoria Census;
 - Current developments in the space; and
 - Fintech Melbourne and Fintech Australia
